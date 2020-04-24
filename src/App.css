@@ -1,5 +1,8 @@
 .App {
+  display: flex;
+  height: 100vmin;
   text-align: center;
+  border-width: 1px;
 }
 
 .App-logo {
@@ -35,4 +38,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.gridContainer{
+  margin: 10vmin;
+}
+
+.h1{
+  font-size: xx-large;
+  color: #338dff
+}
+
+.p{
+  float: left;
+}
+
+.criricleView{
+  background-color: red;
+  padding: 3vmin;
+}
+
+.infoView{
+  height: 10vmin;
+  background-color: red;
+}
+
+.tableData{
+  text-align: start;
+  border: 3px solid #ddd;
 }

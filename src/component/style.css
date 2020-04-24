@@ -1,0 +1,17 @@
+.infoView{
+  height: 20vmin;
+  text-align: start;
+  padding: 2vmin;
+}
+
+.h4{
+    margin: 0.5vmin;
+    color: white;
+}
+
+.p1{
+    margin-left: 0.5vmin;
+    margin-top: 1vmin;
+    margin-bottom: 1vmin;
+    color: white;
+}
